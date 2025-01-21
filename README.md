@@ -1,4 +1,4 @@
-# Connect4 Game (C++)
+# CppConnect4
 
 ## Overview
 This project is a **Connect4 game implementation** written in C++. It supports:
@@ -29,7 +29,7 @@ The game demonstrates object-oriented programming principles, recursive algorith
 
 ## Project Structure
 ```
-connect4/
+CppConnect4/
 ├── build/
 │   ├── Makefile  // Compile the program
 ├── include/
